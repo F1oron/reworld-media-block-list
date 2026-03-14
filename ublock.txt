@@ -1,0 +1,199 @@
+! Médias
+||1001cocktails.com^
+||aufeminin.com^
+||autojournal.fr^
+||autoplus.fr^
+||asia.be.com^
+||be.com^
+
+! Beauté test
+||beaute-test.com^
+||facebook.com/beautetest^
+||instagram.com/beautetestcom^
+
+||bibamagazine.fr^
+||bienalacampagne.fr^
+||closermag.fr^
+
+! CNET
+||cnetfrance.fr^
+||dailymotion.com/CNETFrance^
+||facebook.com/cnetfrance^
+||twitter.com/cnetfrance^
+||youtube.com/user/CNETfrance^
+
+||damideco.com^
+
+! Diapason
+||diapasonmag.fr^
+||facebook.com/DiapasonMag^
+||twitter.com/Diapasonmag^
+
+||doctissimo.fr^
+||dzfoot.com^
+||eclypsia.com^
+
+||en-vols.com^
+||entrenous.fr^
+||football.fr^
+||football365.fr^
+
+! Fraiches
+||facebook.com/fraiches^
+||instagram.com/fraiches^
+
+||gamekult.com^
+||gourmand.viepratique.fr^
+||grazia.fr^
+
+! Guerres et histoire
+||guerres-et-histoire.com^
+||facebook.com/guerresethistoire^
+||twitter.com/guerreshistoire^
+||instagram.com/guerreshistoire^
+||youtube.com/c/Guerresethistoire^
+||guerreshistoire.tv^
+
+! Gueuleton
+||gueuleton.fr^
+||facebook.com/gueuleton^
+
+! Hero
+||facebook.com/hero.vertical^
+
+||jeuxvideo-live.com^
+
+! Juste mieux
+||facebook.com/justemieuxmedia^
+||instagram.com/justemieux^
+||tiktok.com/@justemieux^
+
+||lacremedugaming.fr^
+||lechasseurfrancais.com^
+||lejournaldelamaison.fr^
+||lesnumeriques.com^
+||linkedin.com/company/reworld-mediaconnect^
+||maison-travaux.fr^
+
+! Marie France
+||mariefrance.fr^
+||bsky.app/profile/mariefrancemag.bsky.social^
+||facebook.com/mariefrancemag^
+||instagram.com/mariefrancemagazine^
+||linkedin.com/company/mariefrance^
+||pinterest.com/mariefrancemag^
+||threads.com/@mariefrancemagazine^
+||x.com/mariefrancemag^
+||youtube.com/mariefranceTV^
+
+||marmiton.org^
+||melty.fr^
+
+! Minute buzz
+||facebook.com/minutebuzz^
+||instagram.com/minutebuzz^
+||linkedin.com/company/minutebuzz^
+||youtube.com/c/MinuteBuzzz^
+
+||modesettravaux.fr^
+||nextplz.fr^
+
+! Nous deux
+||facebook.com/NousDeuxMag^
+
+||paroledemamans.com^
+||peaches.fr^
+||pleinevie.fr^
+||psychologies.com^
+! Réponses photo
+||reponsesphoto.fr^
+||rugby365.fr^
+! Science et Vie
+||science-et-vie.com^
+! Science et Vie découverte
+||svdecouvertes.fr^
+! Science et Vie junior
+||science-et-vie-junior.fr^
+||sports.fr^
+||sport365.fr^
+||sportauto.fr^
+||sportenfrance.com^
+
+! Superbon
+||facebook.com/superbonfr^
+||instagram.com/superbon^
+||tiktok.com/@superbon_officiel^
+
+||supersoluce.com^
+||telestar.fr^
+||tanin.fr^
+||telepoche.fr^
+||telestar.fr^
+||tennismajors.com^
+||testsdeproduits.fr^
+||topsante.com^
+||tradedoubler.com^
+
+! Vital food
+||facebook.com/Vitalfood.le.mag^
+||instagram.com/vitalfood_mag^
+
+||zdnet.fr^
+
+! -----------------------------------------------
+! Création de contenus
+! Atelier b
+||atelierb-production.com^
+! Content Squad
+||linkedin.com/company/content-squad92^
+! Editoria link
+||editorialink.fr^
+! Event Flow
+||eventflow.fr^
+||linkedin.com/company/market-access-groupe-enr^
+! Leads Lab
+||leadslab.fr^
+! Playground
+||socialplayground.io^
+! Propulse
+||propulse-media.com^
+
+! ----------------------------------------------
+! Reworld
+||reworldmediaconnect.com^
+||instagram.com/reworldmediaconnect^
+||instagram.com/reworldmedia^
+||kiosquemag.com^
+||facebook.com/ReworldMedia^
+||twitter.com/ReworldMediaC^
+||twitter.com/ReworldMedia^
+
+||reworldmediacampus.com^
+||tv.reworld.biz^
+
+! ----------------------------------------------
+! Divers
+||akouodio.com^
+||metapic.com^
+
+! ----------------------------------------------
+! Evenementiel
+! Le Galet
+||legalet.fr^
+||facebook.com/legalethoteletspa^
+||instagram.com/hotel_legaletandspa^
+||linkedin.com/showcase/le-galet-h%C3%B4tel-spa^
+
+! Les Rhodos
+||lesrhodos.com^
+||facebook.com/LesRhodosHotel^
+||instagram.com/chaletsoneexperience^
+||tripadvisor.fr/Hotel_Review-g674091-d1225561-Reviews-Les_Rhodos-Cordon_Haute_Savoie_Auvergne_Rhone_Alpes.html^
+
+||one-experience.fr^
+||terrassedumontblanc.com^
+||yacht-josephine.com^
+
+! ----------------------------------------------
+! A investiguer
+||shadeswaves.com^
