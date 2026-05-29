@@ -4,10 +4,43 @@
 ! License: https://github.com/F1oron/reworld-media-block-list/blob/main/LICENSE
 
 ! Médias
-||1001cocktails.com^
-||aufeminin.com^
+
+! Mondadori France
 ||autojournal.fr^
 ||autoplus.fr^
+||bibamagazine.fr^
+||closermag.fr^
+! Diapason
+||diapasonmag.fr^
+||facebook.com/DiapasonMag^
+||twitter.com/Diapasonmag^
+||grazia.fr^
+! Guerres et histoire
+||guerres-et-histoire.com^
+||facebook.com/guerresethistoire^
+||twitter.com/guerreshistoire^
+||instagram.com/guerreshistoire^
+||youtube.com/c/Guerresethistoire^
+||guerreshistoire.tv^
+||lechasseurfrancais.com^
+||maison-travaux.fr^
+||modesettravaux.fr^
+||pleinevie.fr^
+! Réponses photo
+||reponsesphoto.fr^
+! Science et Vie
+||science-et-vie.com^
+! Science et Vie découverte
+||svdecouvertes.fr^
+! Science et Vie junior
+||science-et-vie-junior.fr^
+||sportauto.fr^
+||telepoche.fr^
+||telestar.fr^
+||topsante.com^
+
+||1001cocktails.com^
+||aufeminin.com^
 ||asia.be.com^
 ||be.com^
 
@@ -16,9 +49,7 @@
 ||facebook.com/beautetest^
 ||instagram.com/beautetestcom^
 
-||bibamagazine.fr^
 ||bienalacampagne.fr^
-||closermag.fr^
 
 ! CNET
 ||cnetfrance.fr^
@@ -29,10 +60,6 @@
 
 ||damideco.com^
 
-! Diapason
-||diapasonmag.fr^
-||facebook.com/DiapasonMag^
-||twitter.com/Diapasonmag^
 
 ||doctissimo.fr^
 ||dzfoot.com^
@@ -49,15 +76,9 @@
 
 ||gamekult.com^
 ||gourmand.viepratique.fr^
-||grazia.fr^
 
-! Guerres et histoire
-||guerres-et-histoire.com^
-||facebook.com/guerresethistoire^
-||twitter.com/guerreshistoire^
-||instagram.com/guerreshistoire^
-||youtube.com/c/Guerresethistoire^
-||guerreshistoire.tv^
+! La revue nationale de la chasse
+||facebook.com/larevuenationaledelachasse^
 
 ! Gueuleton
 ||gueuleton.fr^
@@ -74,11 +95,9 @@
 ||tiktok.com/@justemieux^
 
 ||lacremedugaming.fr^
-||lechasseurfrancais.com^
 ||lejournaldelamaison.fr^
 ||lesnumeriques.com^
 ||linkedin.com/company/reworld-mediaconnect^
-||maison-travaux.fr^
 
 ! Marie France
 ||mariefrance.fr^
@@ -100,7 +119,6 @@
 ||linkedin.com/company/minutebuzz^
 ||youtube.com/c/MinuteBuzzz^
 
-||modesettravaux.fr^
 ||nextplz.fr^
 
 ! Nous deux
@@ -108,20 +126,10 @@
 
 ||paroledemamans.com^
 ||peaches.fr^
-||pleinevie.fr^
 ||psychologies.com^
-! Réponses photo
-||reponsesphoto.fr^
 ||rugby365.fr^
-! Science et Vie
-||science-et-vie.com^
-! Science et Vie découverte
-||svdecouvertes.fr^
-! Science et Vie junior
-||science-et-vie-junior.fr^
 ||sports.fr^
 ||sport365.fr^
-||sportauto.fr^
 ||sportenfrance.com^
 
 ! Superbon
@@ -130,13 +138,11 @@
 ||tiktok.com/@superbon_officiel^
 
 ||supersoluce.com^
-||telestar.fr^
 ||tanin.fr^
-||telepoche.fr^
-||telestar.fr^
 ||tennismajors.com^
 ||testsdeproduits.fr^
-||topsante.com^
+! Tir mag
+||facebook.com/tirmag^
 ||tradedoubler.com^
 
 ! Vital food
