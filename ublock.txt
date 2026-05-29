@@ -1,3 +1,8 @@
+! Title: Reworld Media block list
+! Description: A list of website possessed by Reworld Media
+! Version: 1.0.0
+! License: https://github.com/F1oron/reworld-media-block-list/blob/main/LICENSE
+
 ! Médias
 ||1001cocktails.com^
 ||aufeminin.com^
